@@ -35,5 +35,9 @@ export class AppComponent implements OnInit {
           console.error('Error fetching posts:', error);
         }
       });
-  }  
+  }
+  
+  
+  
+  
 }
